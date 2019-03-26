@@ -1,0 +1,7 @@
+{
+    "port": "COM13",
+    "board": "esp8266:esp8266:huzzah",
+    "configuration": "CpuFrequency=80,FlashSize=4M1M,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=none,UploadSpeed=115200",
+    "output": "target",
+    "sketch": "iot_binary_button.ino"
+}

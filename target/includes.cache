@@ -1,0 +1,232 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\variants\\adafruit"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "AdafruitIO_WiFi.h",
+    "Includepath": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "Adafruit_MQTT.h",
+    "Includepath": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_MQTT_Library"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "ArduinoHttpClient.h",
+    "Includepath": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\ArduinoHttpClient\\src"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\EEPROM"
+  },
+  {
+    "Sourcefile": "c:\\src\\iot_binary_button\\target\\sketch\\iot_binary_button.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO_Dashboard.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO_Data.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO_Feed.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO_Group.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\AdafruitIO_Time.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\AdafruitIO_Block.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\ChartBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\GaugeBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\MapBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\MomentaryBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\SliderBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\StreamBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\TextBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\blocks\\ToggleBlock.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\util\\AdafruitIO_Board.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\wifi\\AdafruitIO_ESP32.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\wifi\\AdafruitIO_ESP8266.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\wifi\\AdafruitIO_MKR1000.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\wifi\\AdafruitIO_WICED.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_IO_Arduino\\src\\wifi\\AdafruitIO_WINC1500.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_MQTT_Library\\Adafruit_MQTT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\Adafruit_MQTT_Library\\Adafruit_MQTT_Client.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\ArduinoHttpClient\\src\\HttpClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\ArduinoHttpClient\\src\\WebSocketClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\Documents\\Arduino\\libraries\\ArduinoHttpClient\\src\\b64.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\WiFiServerSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\ESP8266WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\slinenberger\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries\\EEPROM\\EEPROM.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
